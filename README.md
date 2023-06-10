@@ -1,9 +1,9 @@
 # dyspider
-douyin X-Khronos,X-Gorgon,X-Argus生成app逆向
+douyin X-Khronos,X-Gorgon,X-Argus生成，某音API调用
 
 1、抖音android逆向学习，可生成X-Khronos,X-Gorgon,X-Argus加密参数。
 
-2、可获取用户详情，视频详情，搜索等接口
+2、可获取用户详情，视频详情，搜索等
 
 3、进行调用前需要先生成deviceid和install_id
 
