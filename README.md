@@ -1,5 +1,5 @@
 # dyspider
-douyin X-Khronos,X-Gorgon,X-Argus生成，某音API调用
+douyin X-Khronos,X-Gorgon,X-Argus，X-ladon生成，某音API调用
 
 1、抖音Android逆向学习，可生成X-Khronos,X-Gorgon,X-Argus等加密参数。
 
